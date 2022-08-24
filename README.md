@@ -1,1 +1,2 @@
-# C23-SA-boilerplate
+# C20_boilerplate
+boilerplate for teacher activity
